@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Data Structures & Algorithims in C++<br>💬 Ask me about
+🌱 I’m currently learning Data Structures & Algorithims in C++<br>
 
 
 ## 🌐 Socials:
