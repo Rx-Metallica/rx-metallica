@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7DF1E&center=true&width=435&lines=Full+Stack+Developer;DSA+Enthusiast;Passionate+about+Tech+%26+Coding" alt="Typing animation">
 </p>
 
-![17311640657956060542154964567923](https://github.com/user-attachments/assets/3c507c28-86c9-45f8-8334-bce21a1cef77)
+<p align="center">
+  <img src="https://wallpaperboat.com/wp-content/uploads/2020/11/13/60417/programming-minimalist-24-920x518.jpg">
+</p>
 
 
 ### 👨‍💻 About Me
